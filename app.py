@@ -190,7 +190,7 @@ def get_holidays(custom_days, year):
 
 controls = dbc.Card(
     [
-        html.H5("Graphical Widgets"),
+        html.H5("Widgets"),
         dbc.FormGroup(
             [
                 dbc.Label("Growth", color='primary'),
@@ -251,7 +251,7 @@ controls = dbc.Card(
 
 table = dbc.FormGroup(
     [
-        dbc.Label("Forecasted Data", size='lg'),
+        dbc.Label("Monthly Predictions", size='lg'),
         dbc.Table.from_dataframe(pd.DataFrame(columns=['A', 'B'], index=range(3)).reset_index(), 
                                  id='forecast-table', 
                                  striped=True, 
