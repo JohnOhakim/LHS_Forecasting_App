@@ -1,4 +1,4 @@
-# Project Title
+# LHS Forecasting
 ```
 Project details here
 ```
