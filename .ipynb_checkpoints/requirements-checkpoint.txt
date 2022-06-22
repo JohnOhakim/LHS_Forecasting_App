@@ -30,7 +30,7 @@ matplotlib == 3.1.3
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 2
 # forecasting_app/app.py: 2
-numpy == 1.18.1
+numpy == 1.22.0
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 1,19
 # forecasting_app/app.py: 1,19
