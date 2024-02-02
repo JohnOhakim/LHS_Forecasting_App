@@ -2,7 +2,7 @@
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 16
 # forecasting_app/app.py: 16
-dash == 1.10.0
+dash == 2.15.0
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 17
 # forecasting_app/app.py: 17
