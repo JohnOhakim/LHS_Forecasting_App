@@ -14,7 +14,7 @@ dash_core_components == 1.9.0
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 15
 # forecasting_app/app.py: 15
-dash_html_components == 1.0.3
+dash_html_components == 2.0.0
 
 # forecasting_app/.ipynb_checkpoints/app-checkpoint.py: 26
 # forecasting_app/app.py: 26
