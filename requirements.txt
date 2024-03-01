@@ -5,7 +5,7 @@ dash_bootstrap_components == 0.10.1
 
 dash_core_components == 1.9.0
 
-dash_html_components == 1.0.3
+dash_html_components == 2.0.0
 
 fbprophet == 0.6
 
